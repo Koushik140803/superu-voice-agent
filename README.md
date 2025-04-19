@@ -87,7 +87,7 @@ A voice-based assistant that helps users schedule meetings through natural conve
 ## Demo Video
 
 Want to see it in action?  
-[Watch the demo video](https://drive.google.com/file/d/1abcXYZ/view?usp=sharing)
+[Watch the demo video](https://drive.google.com/file/d/1-jLz9lA5hvyABFiJRoLR6kMtfjnG_oXO/view?usp=sharing)
 ---
 
 ## Disclaimer
