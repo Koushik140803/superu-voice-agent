@@ -83,3 +83,16 @@ A voice-based assistant that helps users schedule meetings through natural conve
 - Multiple calendar integration
 - Meeting reminders, notifications and confirmation mails
 - More sophisticated conversation handling for complex scenarios
+
+## Demo Video
+
+Want to see it in action?  
+[Watch the demo video](https://drive.google.com/file/d/1abcXYZ/view?usp=sharing)
+---
+
+## Disclaimer
+
+This project was created as part of an assignment for the company **SuperU**.  
+All company names, logos, and references used in this repository are solely for academic or demonstration purposes.  
+This is not an official product of SuperU.
+
