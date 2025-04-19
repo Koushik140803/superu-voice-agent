@@ -1,0 +1,25 @@
+# Secrets and credentials
+.env
+credentials.json
+token.json
+
+# Audio files
+*.wav
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+*.mp4
+*.mp4

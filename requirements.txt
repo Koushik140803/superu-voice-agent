@@ -1,0 +1,27 @@
+# Voice and Audio Processing
+pyttsx3
+pyaudio
+wave
+
+# HTTP Requests and API Interaction
+requests
+python-dotenv
+
+# Date/Time Processing
+python-dateutil
+datetime
+
+# Google Calendar Integration
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Vocode Integration
+vocode
+
+# Standard Library Modules
+os
+time
+re
+logging
+json
